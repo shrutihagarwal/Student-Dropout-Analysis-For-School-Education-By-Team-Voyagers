@@ -33,3 +33,21 @@ https://docs.google.com/document/d/1Tg3QbN-kw9wml6TRrSiJ7FsfCiY_P46TpYLMpbESO14/
 https://public.tableau.com/app/profile/shruti6130/viz/Voyagers-Dashboard/Home#1
 
 
+
+## Get In Touch! 📬
+
+| Team Member | LinkedIn | Email | 
+|---|---|---|
+| Agarwal Shruti Hemant  | https://www.linkedin.com/in/shruti-agarwal-2a0019186/ | shrutihagarwal@gmail.com |
+|---|---|---|
+| Esha Sharma  | https://www.linkedin.com/in/eshamishra28/  | eshamihsra28@gmail.com  |
+|---|---|---|
+| Sharma Radhika Shivkumar  | https://www.linkedin.com/in/radhika-sharma-476aa41b0/  | radhika240801@gmail.com |
+|---|---|---|
+| Sandhu PrableenKaur CharanjitSingh | https://www.linkedin.com/in/prableenkaursandhu | prableenkaurcsandhu@gmail.com |
+|---|---|---|
+| Patel Vibhuti Kishorbhai  | https://linkedin.com/in/vibhuti-patel-5357b920a | vibhupatel002@gmail.com |  
+|---|---|---|
+| Sagar Khushi Rajeshkumar  | https://www.linkedin.com/in/sagar-khushi-673956232/ |  sagarkhushi001@gmail.com |
+|---|---|---|
+
