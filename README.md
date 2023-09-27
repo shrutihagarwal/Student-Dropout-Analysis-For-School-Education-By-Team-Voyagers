@@ -66,6 +66,24 @@ Applied linear regression model using scikit- learn library to predict the dropo
 
 ## 5. Challenges and Solutions 🧠
 
+ 5.1 Challenges Faced:
+   - Difficulty in sourcing relevant data.
+   - Addressing missing values in datasets.
+   - Identifying key factors for trend analysis.
+   - Extensive research for effective dropout rate reduction strategies.
+   - Insufficient data for developing early warning ML models.
+
+   Data Search:
+   - Invested significant time in searching government websites and reports for data.
+
+3. Visualization Tools:
+   - Employed Tableau and Python code for diverse data visualizations.
+
+4. Data-Driven Recommendations:
+   - Recommendations for reducing dropout rates were substantiated by data analysis.
+
+By summarizing these points concisely, it enhances readability and highlights the main aspects of the challenges and efforts involved in the analysis.
+
 ## 6. Major Trends
 
 Overall trends for dropout rate indicate that while there is significant decrease in students dropping out at primary level but a lot more needs to be done at secondary level education. One positive trend is that the female dropout rate has been lesser than males. Most affected  group includes social categories like ST, SC, OBC and children of migrant workers.Top cause reported by students dropping out of school is that they are involved in domestic work ( for females)/ economic work (for males) followed by financial constraints and lack of interest. In rural areas, one of the primary factors leading to dropout among females is the considerable distance to school, while both males and females in both rural and urban areas tend to leave school due to academic failure. On top of these challenges migrant workers' kids also face problems due to constant changing of schools. 
