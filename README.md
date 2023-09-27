@@ -49,6 +49,8 @@ https://public.tableau.com/app/profile/shruti6130/viz/Voyagers-Dashboard/Home#1
 
 ## 4. Workflow
 
+![Workflow](https://github.com/shrutihagarwal/Student-Dropout-Analysis-For-School-Education-By-Team-Voyagers/assets/83595196/41786ab7-7168-444c-b8a3-e62901a939c9)
+
 ### 4.1  Data Collection
 * Data has been collected from official Indian government websites and databases.
 - data.gov: https://data.gov.in/ 
@@ -58,23 +60,30 @@ https://public.tableau.com/app/profile/shruti6130/viz/Voyagers-Dashboard/Home#1
 ### 4.2 Data Visualization and Analysis.
 Created a diverse range of visualizations  including bar charts, pie charts, stacked bar charts, grouped bar charts, line graphs to understand dropout rates. We focus on national level, state-level disparities, age/standard groups, social categories and gender differences. By creating visualizations like choropleth maps and bar charts, we identify variations among states and regions, revealing critical insights into dropout trends. This multifaceted approach allows us to discern patterns and disparities, enabling more targeted interventions to address dropout challenges effectively.
 
-![Workflow](https://github.com/shrutihagarwal/Student-Dropout-Analysis-For-School-Education-By-Team-Voyagers/assets/83595196/41786ab7-7168-444c-b8a3-e62901a939c9)
-
 ### 4.3 Recommendation:
 Utilizing diverse visualizations, our analysis revealed disparities in dropout rates. Recommendations include tailored interventions at the national level, state level, and community engagement efforts.These suggestions come from what the data tells us, to better reduce dropouts and make education fair for everyone.
 
 ### 4.4 Benchmark Model for Evaluation
 Applied linear regression model using scikit- learn library to predict the dropout rates for the primary,upper primary and secondary education levels over the next 10 years with the purpose of using it for comparison with actual trends.
 
+## 5. Challenges and Solutions 🧠
 
-## Get In Touch! 📬
+## 6. Major Trends
+
+Overall trends for dropout rate indicate that while there is significant decrease in students dropping out at primary level but a lot more needs to be done at secondary level education. One positive trend is that the female dropout rate has been lesser than males. Most affected  group includes social categories like ST, SC, OBC and children of migrant workers.Top cause reported by students dropping out of school is that they are involved in domestic work ( for females)/ economic work (for males) followed by financial constraints and lack of interest. On top of these challenges migrant workers' kids also face problems due to constant changing of schools. For more details refer to the report.
+
+
+## 7. Future Enhancements 🚧
+
+
+## 8. Get In Touch! 📬
 
 | Team Member | LinkedIn | Email | 
 |---|---|---|
-| Agarwal Shruti Hemant  | https://www.linkedin.com/in/shruti-agarwal-2a0019186/ | shrutihagarwal@gmail.com |
-| Esha Sharma  | https://www.linkedin.com/in/eshamishra28/  | eshamihsra28@gmail.com  |
-| Sharma Radhika Shivkumar  | https://www.linkedin.com/in/radhika-sharma-476aa41b0/  | radhika240801@gmail.com |
-| Sandhu PrableenKaur CharanjitSingh | https://www.linkedin.com/in/prableenkaursandhu | prableenkaurcsandhu@gmail.com |
-| Patel Vibhuti Kishorbhai  | https://linkedin.com/in/vibhuti-patel-5357b920a | vibhupatel002@gmail.com |  
+| Shruti Agarwal | https://www.linkedin.com/in/shruti-agarwal-2a0019186/ | shrutihagarwal@gmail.com |
+| Esha Mishra  | https://www.linkedin.com/in/eshamishra28/  | eshamihsra28@gmail.com  |
+| Radhika Sharma  | https://www.linkedin.com/in/radhika-sharma-476aa41b0/  | radhika240801@gmail.com |
+| PrableenKaur Sandhu | https://www.linkedin.com/in/prableenkaursandhu | prableenkaurcsandhu@gmail.com |
+| Vibhuti Patel   | https://linkedin.com/in/vibhuti-patel-5357b920a | vibhupatel002@gmail.com |  
 | Sagar Khushi Rajeshkumar  | https://www.linkedin.com/in/sagar-khushi-673956232/ |  sagarkhushi001@gmail.com |
 
