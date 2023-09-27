@@ -95,7 +95,7 @@ For the reduction of dropout rate,
 ## 10. Get In Touch! 📬
 
 | Team Member | LinkedIn | Email | GitHub |
-|---|---|---|
+|---|---|---|---|
 | Shruti Agarwal | https://www.linkedin.com/in/shruti-agarwal-2a0019186/ | shrutihagarwal@gmail.com | https://github.com/shrutihagarwal |
 | Esha Mishra  | https://www.linkedin.com/in/eshamishra28/  | eshamihsra28@gmail.com  | https://github.com/emish8/ |
 | Radhika Sharma  | https://www.linkedin.com/in/radhika-sharma-476aa41b0/  | radhika240801@gmail.com | https://github.com/Radhika2408 |
