@@ -44,5 +44,5 @@ https://public.tableau.com/app/profile/shruti6130/viz/Voyagers-Dashboard/Home#1
 | Sandhu PrableenKaur CharanjitSingh | https://www.linkedin.com/in/prableenkaursandhu | prableenkaurcsandhu@gmail.com |
 | Patel Vibhuti Kishorbhai  | https://linkedin.com/in/vibhuti-patel-5357b920a | vibhupatel002@gmail.com |  
 | Sagar Khushi Rajeshkumar  | https://www.linkedin.com/in/sagar-khushi-673956232/ |  sagarkhushi001@gmail.com |
-|---|---|---|
+
 
