@@ -3,8 +3,6 @@
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZP8YIKPjHS9BA2grNJo0wgHaDW%26pid%3DApi&f=1&ipt=873886a32578466fe5962aaab162afd8106401e4d7b938f51bc53be6ece40f38&ipo=images" />
 </p>
 
-
-
 # Project Name: Student Dropout Analysis For School Education by Team Voyagers 
 ## PS Code : ID- 1362 
 
@@ -70,13 +68,31 @@ Applied linear regression model using scikit- learn library to predict the dropo
 
 ## 6. Major Trends
 
-Overall trends for dropout rate indicate that while there is significant decrease in students dropping out at primary level but a lot more needs to be done at secondary level education. One positive trend is that the female dropout rate has been lesser than males. Most affected  group includes social categories like ST, SC, OBC and children of migrant workers.Top cause reported by students dropping out of school is that they are involved in domestic work ( for females)/ economic work (for males) followed by financial constraints and lack of interest. On top of these challenges migrant workers' kids also face problems due to constant changing of schools. For more details refer to the report.
+Overall trends for dropout rate indicate that while there is significant decrease in students dropping out at primary level but a lot more needs to be done at secondary level education. One positive trend is that the female dropout rate has been lesser than males. Most affected  group includes social categories like ST, SC, OBC and children of migrant workers.Top cause reported by students dropping out of school is that they are involved in domestic work ( for females)/ economic work (for males) followed by financial constraints and lack of interest. In rural areas, one of the primary factors leading to dropout among females is the considerable distance to school, while both males and females in both rural and urban areas tend to leave school due to academic failure. On top of these challenges migrant workers' kids also face problems due to constant changing of schools. 
 
+Top causes stated by students for not attending school, according to Minitry of statistics and programme impleamntaion (2018) : 
+- Girls - Domestic work, financial constraints, not interested, marriage
+- Boys -  Economic work, financial constraints, not interested
 
-## 7. Future Enhancements 🚧
+For more details refer to the report.
 
+## 8. Recommendations
 
-## 8. Get In Touch! 📬
+For the reduction of dropout rate, 
+- Improvement in the school infrastructure, quality of faculty, 
+- Financial support for students with financial constraints 
+- Relevant curriculum and voational training
+- Open Source community for content translation in Regional Language
+- Mobile first approach for digital learning platforms
+- Student Help group for strucgling students 
+- Early warning system 
+- National Student ID for keeping track of education progress, especially for migrant worker's kids
+
+## 9. Future Enhancements 
+ - Early warning systemm for dropouts consisting reporting by other studnets and ML techniques.
+ - Developing prototype for National Studnet ID 
+
+## 10. Get In Touch! 📬
 
 | Team Member | LinkedIn | Email | 
 |---|---|---|
